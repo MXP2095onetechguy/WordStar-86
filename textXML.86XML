@@ -1,0 +1,14 @@
+<86xml>
+    <86xml config>
+        <86xml config class>
+        </86xml config class>
+        <86xml config group>
+            line{
+                string:"============================================================"
+            }
+        </86xml config group>
+    </86xml config>
+    <86xml viewport>
+        text  test <format censored>censored text</format censored><format html="google.com">link to google.com</format html><format style="size:30;">styled text</format style>
+    </86xml viewport>
+    </86xml>
